@@ -1,0 +1,16 @@
+.todo_listing_row{
+    padding: 10px 0px;
+}
+.todo_listing_heading_row{
+    border-bottom: 1px solid #0000002e;
+}
+.todo_listing_card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: -2px 2px 5px 2px #0000004d;
+}
+
+.todolist_heading{
+font-weight: 600;
+
+}
